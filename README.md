@@ -4,5 +4,5 @@ You can make any changes in the program if you need
 
 How to run
 import the repositry
-open command prompt and try pizza-billing.py
+open command prompt and try pizza-bill.py
 See the output
